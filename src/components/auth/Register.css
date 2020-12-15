@@ -1,0 +1,12 @@
+.register-page{
+  background-image: url("../../wave.svg");
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.register-logo a{
+  color: #fff;
+}
