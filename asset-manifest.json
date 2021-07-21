@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/neilarreola.github.io/medic-app/static/css/main.685b6b2e.chunk.css",
+    "main.js": "/neilarreola.github.io/medic-app/static/js/main.1c27f898.chunk.js",
+    "main.js.map": "/neilarreola.github.io/medic-app/static/js/main.1c27f898.chunk.js.map",
+    "runtime-main.js": "/neilarreola.github.io/medic-app/static/js/runtime-main.81ff7a5b.js",
+    "runtime-main.js.map": "/neilarreola.github.io/medic-app/static/js/runtime-main.81ff7a5b.js.map",
+    "static/css/2.0422e928.chunk.css": "/neilarreola.github.io/medic-app/static/css/2.0422e928.chunk.css",
+    "static/js/2.fbd872ad.chunk.js": "/neilarreola.github.io/medic-app/static/js/2.fbd872ad.chunk.js",
+    "static/js/2.fbd872ad.chunk.js.map": "/neilarreola.github.io/medic-app/static/js/2.fbd872ad.chunk.js.map",
+    "static/js/3.a98e5f45.chunk.js": "/neilarreola.github.io/medic-app/static/js/3.a98e5f45.chunk.js",
+    "static/js/3.a98e5f45.chunk.js.map": "/neilarreola.github.io/medic-app/static/js/3.a98e5f45.chunk.js.map",
+    "static/js/4.65f11dfc.chunk.js": "/neilarreola.github.io/medic-app/static/js/4.65f11dfc.chunk.js",
+    "static/js/4.65f11dfc.chunk.js.map": "/neilarreola.github.io/medic-app/static/js/4.65f11dfc.chunk.js.map",
+    "static/js/5.a3309bac.chunk.js": "/neilarreola.github.io/medic-app/static/js/5.a3309bac.chunk.js",
+    "static/js/5.a3309bac.chunk.js.map": "/neilarreola.github.io/medic-app/static/js/5.a3309bac.chunk.js.map",
+    "index.html": "/neilarreola.github.io/medic-app/index.html",
+    "precache-manifest.9ddcc7de42055b8d1b1d05d95963a24b.js": "/neilarreola.github.io/medic-app/precache-manifest.9ddcc7de42055b8d1b1d05d95963a24b.js",
+    "service-worker.js": "/neilarreola.github.io/medic-app/service-worker.js",
+    "static/css/2.0422e928.chunk.css.map": "/neilarreola.github.io/medic-app/static/css/2.0422e928.chunk.css.map",
+    "static/css/main.685b6b2e.chunk.css.map": "/neilarreola.github.io/medic-app/static/css/main.685b6b2e.chunk.css.map",
+    "static/js/2.fbd872ad.chunk.js.LICENSE.txt": "/neilarreola.github.io/medic-app/static/js/2.fbd872ad.chunk.js.LICENSE.txt",
+    "static/js/3.a98e5f45.chunk.js.LICENSE.txt": "/neilarreola.github.io/medic-app/static/js/3.a98e5f45.chunk.js.LICENSE.txt",
+    "static/js/4.65f11dfc.chunk.js.LICENSE.txt": "/neilarreola.github.io/medic-app/static/js/4.65f11dfc.chunk.js.LICENSE.txt",
+    "static/js/5.a3309bac.chunk.js.LICENSE.txt": "/neilarreola.github.io/medic-app/static/js/5.a3309bac.chunk.js.LICENSE.txt",
+    "static/media/Register.css": "/neilarreola.github.io/medic-app/static/media/wave.b9d95e9f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ff7a5b.js",
+    "static/css/2.0422e928.chunk.css",
+    "static/js/2.fbd872ad.chunk.js",
+    "static/css/main.685b6b2e.chunk.css",
+    "static/js/main.1c27f898.chunk.js"
+  ]
+}
